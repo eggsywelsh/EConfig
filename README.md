@@ -12,6 +12,9 @@ dependencies {
 }
 ````
 
+### Support
+EConfig support bind properties String property to 8 java basic type,String,java.util.Date class.And,date formate also supported.
+
 ### How to use
 In the class file with the ConfigProperty annotation, annotation with java field decorator with public or protected keyword
 ````
