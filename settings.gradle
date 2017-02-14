@@ -1,1 +1,1 @@
-include ':sample', ':econfig', ':econfig-processor'
+include ':sample', ':econfig-processor', ':econfig'
