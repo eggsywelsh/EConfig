@@ -7,8 +7,8 @@ Based on java Annotation Process Tool technology, According to the annotation in
 in you module's build.gradle then add below dependencies
 ````
 dependencies {
-    annotationProcessor 'com.eggsy:econfig-processor:0.0.1'
-    compile 'com.eggsy:econfig:0.0.1'
+    annotationProcessor 'com.eggsy:econfig-processor:0.0.3'
+    compile 'com.eggsy:econfig:0.0.3'
 }
 ````
 
